@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Item 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "12.1",
+        "quality": "2"
+    },
+    {
+        "name": "Item 2",
+        "description": "Aliquam viverra, neque a dapibus rutrum,.",
+        "price": "9.2",
+        "quality": "2"
+    },
+    {
+        "name": "Item 3",
+        "description": "Praesent suscipit sollicitudin odio.",
+        "price": "25.2",
+        "quality": "3"
+    },
+    {
+        "name": "Item 4",
+        "description": "am vitae mauris cursus diam congue interdum non eget risus.",
+        "price": "3.9",
+        "quality": "3"
+    },
+    {
+        "name": "Item 5",
+        "description": "Curabitur et bibendum lectus.",
+        "price": "7.4",
+        "quality": "4"
+    },
+    {
+        "name": "Item 6",
+        "description": "Suspendisse semper, urna a pharetra iaculis.",
+        "price": "19.2",
+        "quality": "4"
+    }
+]
